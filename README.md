@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">I am a thinker and a dreamer~</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
